@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hello, my name is Danila</h1>                       
+  <h1>Hello, I am Danila, a web and mobile developer</h1>                       
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,7 +13,7 @@
 </div>
 </div>
 
-### Thank you for vitisiting my github profile, you can find all relevant developing projects and my other contributions here. If you're an employeer please check the social media buttons.
+### Thank you for vitisiting my github profile, you can find my contributions and personal projects. If you're an employeer please make sure to check the social media buttons.
 
 ![Static Badge](https://img.shields.io/badge/test%20badge-purple)
 
