@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <div>Hello, my name is Danila</div                       
+  <h1>Hello, my name is Danila</h1>                       
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
