@@ -13,13 +13,13 @@
 </div>
 </div>
 
-### :dna: My projects:
+<h2>:dna: My projects:</h2>
 
-- :hamburger: Food recipes web application:
+- ### :hamburger: Food recipes web application:
 
 The main purpose of this application is to store food recipes from different cultures of the world. This app allows to browse, create and save food recipes and many other important detailes about dishes. 
 
-This app is built out of several smaller projects which I are listed below:
+This app is built out of several smaller projects which I have listed below:
 
 :closed_lock_with_key: :sparkles:	JWT authentication, backend and frontend. 
 
