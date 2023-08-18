@@ -13,8 +13,6 @@
 </div>
 </div>
 
-### Thank you for vitisiting my github profile, you can find my contributions and personal projects. If you're looking to employ please make sure to check the social media buttons.
-
 ### My projects:
 
 
