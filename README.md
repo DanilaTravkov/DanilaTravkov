@@ -2,5 +2,5 @@
 
 ![Static Badge](https://img.shields.io/badge/test%20badge-purple)
 
-[![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanilaTravkov)](https://github.com/anuraghazra/github-readme-stats)
+[![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanilaTravkovshow_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
