@@ -5,19 +5,23 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram badge Badge"/>
   </a>
 </div>
 </div>
 
 ### Thank you for vitisiting my github profile, you can find my contributions and personal projects. If you're looking to employ please make sure to check the social media buttons.
 
+### My experience:
+
+
+
 ![Static Badge](https://img.shields.io/badge/test%20badge-purple)
 
-My statistics
+### My statistics:
 
 [![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanilaTravkov&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
