@@ -1,14 +1,14 @@
 <div id="header" align="center">
   <h1>Hello, I am Danila, a web and mobile developer</h1>                       
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram badge Badge"/>
+  </a>
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram badge Badge"/>
   </a>
 </div>
 </div>
