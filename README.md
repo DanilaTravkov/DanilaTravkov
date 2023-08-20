@@ -23,7 +23,8 @@ It is built out of several smaller projects which I have listed below:
 
 - :closed_lock_with_key: :sparkles:	JWT authentication
 
-![Sample Gif](https://github.com/DanilaTravkov/DanilaTravkov/assets/66572136/b4459507-59fc-40eb-a46b-47320b3a812d)
+  ![Sample Gif](https://github.com/DanilaTravkov/DanilaTravkov/assets/66572136/f98b6a79-8de7-4b47-b4c4-7baaad2ba36e)
+
 
 - :hammer_and_wrench: CRUD operations
 
@@ -37,9 +38,11 @@ It is built out of several smaller projects which I have listed below:
 
 ### My statistics:
 
+
 [![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanilaTravkov&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilaTravkov&layout=compact&theme=dracula)
+  
 
 ---
 
