@@ -13,7 +13,6 @@
 </div>
 </div>
 
-
 ## :dna: My projects:
 
 ### :hamburger: Food recipes application:
@@ -24,7 +23,7 @@ It is built out of several smaller projects which I have listed below:
 
 - :closed_lock_with_key: :sparkles:	JWT authentication
 
-![Uploading ezgif.com-video-to-gif.gif…]()
+![Sample Gif](https://github.com/DanilaTravkov/DanilaTravkov/assets/66572136/b4459507-59fc-40eb-a46b-47320b3a812d)
 
 - :hammer_and_wrench: CRUD operations
 
