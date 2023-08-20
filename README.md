@@ -13,18 +13,26 @@
 </div>
 </div>
 
+
 ## :dna: My projects:
 
-### :hamburger: Food recipes web application:
+### :hamburger: Food recipes application:
 
 The main purpose of this application is to store food recipes from different cultures of the world. This app allows to browse, create and save food recipes and many other important detailes about dishes. 
 
-This app is built out of several smaller projects which I have listed below:
+It is built out of several smaller projects which I have listed below:
 
-- :closed_lock_with_key: :sparkles:	JWT authentication 
+- :closed_lock_with_key: :sparkles:	JWT authentication
 
+![Uploading ezgif.com-video-to-gif.gif…]()
 
 - :hammer_and_wrench: CRUD operations
+
+- :computer: Food blog
+
+<div>Technologies used:</div>
+
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,js,react,tailwind,vite)](https://skillicons.dev)
 
 ---
 
