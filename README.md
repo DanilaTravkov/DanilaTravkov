@@ -26,13 +26,17 @@ It is built out of several smaller projects which I have listed below:
   ![Sample Gif](https://github.com/DanilaTravkov/DanilaTravkov/assets/66572136/f98b6a79-8de7-4b47-b4c4-7baaad2ba36e)
 
 <div>
-  Short description: This is an example of a safe authentication mechanism which exploits JWT tokens with help of
+  This is an example of a safe authentication mechanism which exploits JWT tokens with help of
   <a href="https://django-rest-framework-simplejwt.readthedocs.io/en/latest/">Simple JWT</a> library for Django REST.
 </div>
 
 - :hammer_and_wrench: CRUD operations
 
 - :hearts: Like functionality
+
+  ![Sample Gif](https://github.com/DanilaTravkov/DanilaTravkov/assets/66572136/1aaee03a-a303-4bd8-a82a-d104b61045d5)
+
+<div>Like button functionality with database requests</div>
 
 <div>Technologies used:</div>
 
