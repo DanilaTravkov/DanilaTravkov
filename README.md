@@ -32,7 +32,7 @@ It is built out of several smaller projects which I have listed below:
 
 - :hammer_and_wrench: CRUD operations
 
-- :computer: Food blog
+- :computer: Like functionality
 
 <div>Technologies used:</div>
 
