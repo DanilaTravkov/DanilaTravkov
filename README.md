@@ -23,7 +23,7 @@ It is built out of several smaller projects which I have listed below:
 
 - :closed_lock_with_key: :sparkles:	JWT authentication
 
-<div>
+<div margin-bottom=2>
   This is an example of a safe authentication mechanism which exploits JWT tokens with help of
   <a href="https://django-rest-framework-simplejwt.readthedocs.io/en/latest/">Simple JWT</a> library for Django REST.
 </div>
@@ -36,7 +36,7 @@ It is built out of several smaller projects which I have listed below:
 
 <div>Like button functionality with database requests</div>
 
-  ![Sample Gif](https://github.com/DanilaTravkov/DanilaTravkov/assets/66572136/1aaee03a-a303-4bd8-a82a-d104b61045d5)
+![Sample Gif](https://github.com/DanilaTravkov/DanilaTravkov/assets/66572136/158d0cff-7b8e-4051-b75e-143238da3711)
 
 <div>Technologies used:</div>
 
