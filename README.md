@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Hello, I am Danila, a web and mobile developer</h1>                       
   <div id="badges">
-  <a href="">
+  <a href="https://t.me/daheatmaker">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="">
