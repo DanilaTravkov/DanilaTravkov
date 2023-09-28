@@ -29,6 +29,8 @@ This is an example of a safe authentication mechanism which exploits JWT tokens 
 
 - :hammer_and_wrench: CRUD operations
 
+Here I use my REST API and connect it with frontend to add basic CRUD operations, the example below shows a process of creating a recipes and how it is later displayed in the profile.
+
 ![Sample Gif](https://github.com/DanilaTravkov/DanilaTravkov/assets/66572136/6102a30c-d639-4434-98ef-d93f5eb5383d)
 
 - :hearts: Like functionality
