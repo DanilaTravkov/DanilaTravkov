@@ -13,38 +13,6 @@
 </div>
 </div>
 
-## :dna: My projects:
-
-### :hamburger: Food recipes application:
-
-The main purpose of this application is to store food recipes from different cultures of the world. This app allows to browse, create and save food recipes and many other important detailes about dishes. 
-
-It is built out of several smaller projects which I have listed below:
-
-- :closed_lock_with_key: :sparkles:	JWT authentication
-
-This is an example of a safe authentication mechanism which exploits JWT tokens with help of <a href="https://django-rest-framework-simplejwt.readthedocs.io/en/latest/">Simple JWT</a> library for Django REST.
-
-![Sample Gif](https://github.com/DanilaTravkov/DanilaTravkov/assets/66572136/f98b6a79-8de7-4b47-b4c4-7baaad2ba36e)
-
-- :hammer_and_wrench: CRUD operations
-
-Here I use my REST API and connect it with frontend to add basic CRUD operations, the example below shows a process of creating a recipes and how it is later displayed in the profile.
-
-![Sample Gif](https://github.com/DanilaTravkov/DanilaTravkov/assets/66572136/6102a30c-d639-4434-98ef-d93f5eb5383d)
-
-- :hearts: Like functionality
-
-Like button functionality with database requests
-
-![Sample Gif](https://github.com/DanilaTravkov/DanilaTravkov/assets/66572136/158d0cff-7b8e-4051-b75e-143238da3711)
-
-<div>Technologies used:</div>
-
-[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,js,react,tailwind,vite)](https://skillicons.dev)
-
----
-
 ### My statistics:
 
 
