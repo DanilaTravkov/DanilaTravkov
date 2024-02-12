@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hello, I am Danila, a full-stack developer</h1>                       
+  <h1>Hello, my name is Danila and I'm a software engineer</h1>                       
   <div id="badges">
   <a href="https://t.me/daheatmaker">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
