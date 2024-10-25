@@ -36,12 +36,8 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=daheatmaker&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
   </p>
 
-  <h2>📂 Featured Projects</h2>
-  <p>Here's a peek at some of my favorite projects:</p>
-  <ul>
-    <li><a href="https://github.com/DanilaTravkov/React_UIKit">Project One</a> - A fully responsive React UI kit built with Typescript, Tailwind and of course React</li>
-    <li><a href="https://github.com/DanilaTravkov/tgBotGameChat">Project Two</a> - An interactive quiz telegram bot built with Python Aiogram v3</li>
-    <li><a href="https://github.com/DanilaTravkov/Quiz-App">Project Two</a> - One of my first self-made javascript apps! An interactive quiz which stores and retrieves answers as JSON</li>
-  </ul>
+  <h2>📂 Features</h2>
+  <p>I am currently developing a fully responsive React UI kit built with Typescript, Tailwind, check it out!</p>
+  <a href="https://github.com/DanilaTravkov/React_UIKit">My project</a>
 
 </div>
