@@ -10,13 +10,13 @@
   
   <h2>🚀 Connect with Me</h2>
   <div id="badges">
-    <a href="https://t.me/daheatmaker">
+    <a href="https://t.me/datravkov">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/danila-travkov/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:datravkov@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
