@@ -31,13 +31,4 @@
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
   </p>
 
-  <h2>📈 GitHub Activity</h2>
-  <p>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=daheatmaker&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
-  </p>
-
-  <h2>📂 Features</h2>
-  <p>I am currently developing a fully responsive React UI kit built with Typescript, Tailwind, check it out!</p>
-  <a href="https://github.com/DanilaTravkov/React_UIKit">My project</a>
-
 </div>
