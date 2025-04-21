@@ -2,7 +2,6 @@
   <h1>Welcome to my GitHub! 👋</h1>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=DanilaTravkov&show_icons=true&theme=dark&hide=prs&count_private=true&hide_border=true" alt="GitHub Stats" height="180">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanilaTravkov&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" height="180">
   </p>
 
   <h2>👤 About Me</h2>
