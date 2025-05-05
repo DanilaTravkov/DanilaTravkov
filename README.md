@@ -5,7 +5,7 @@
   </p>
 
   <h2>👤 About Me</h2>
-  <p>Hi! I'm Danila, a full-stack developer specializing in Node.js, Spring Boot, React, TypeScript with extensive knowledge of core backend and frontend technologies. I have a passion for building elegant and efficient solutions and am always up for new challenges and collaborations.</p>
+  <p>Hi! I'm Danila, a full-stack developer specializing in Node.js, Spring Boot, React, TypeScript with extensive knowledge of core backend and frontend technologies. I have a passion for building elegant and efficient solutions and am always up for new challenges and collaborations. I am currnetly working as a part-time <b>middle frontend developer</b>, but I am always open for new opportunities.</p>
   
   <h2>🚀 Connect with Me</h2>
   <div id="badges">
