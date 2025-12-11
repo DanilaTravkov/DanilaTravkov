@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Welcome to my GitHub! 👋</h1>
+  <h1>Welcome to my GitHub!</h1>
   
   <h2>Connect with me</h2>
   <div id="badges">
