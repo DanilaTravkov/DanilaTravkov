@@ -1,8 +1,6 @@
 <div id="header" align="center">
   <h1>Welcome to my GitHub! 👋</h1>
-  <p align="center">
-    [![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanilaTravkov)](https://github.com/anuraghazra/github-readme-stats)
-  </p>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   
   <h2>Connect with me</h2>
   <div id="badges">
