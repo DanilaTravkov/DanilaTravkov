@@ -93,18 +93,18 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="./assets/logistics-dashboard-dark.png" alt="Operations dashboard dark theme"/>
+      <img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/3c76bdb2-d745-4cab-8286-a8d84abec800" />
     </td>
     <td width="50%">
-      <img src="./assets/logistics-dashboard-light.png" alt="Operations dashboard light theme"/>
+      <img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/3eaf005b-c682-44af-9a61-b920a42911ce" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="./assets/companies-page.png" alt="Companies management page"/>
+      <img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/af8f4784-14e3-4ced-b9c4-e59753cf0888" />
     </td>
     <td width="50%">
-      <img src="./assets/orders-table.png" alt="Recent orders table"/>
+      <img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/42f7ccd9-becb-4575-87f8-63e1ddda129f" />
     </td>
   </tr>
 </table>
@@ -130,15 +130,15 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="./assets/orbit-list-view.png" alt="Orbit issue list view"/>
+      <img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/37635b57-ade5-4b57-bfb8-0a0abcbf87d2" />
     </td>
     <td width="50%">
-      <img src="./assets/orbit-create-issue.png" alt="Orbit create issue panel"/>
+      <img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/5dc2d114-a3d3-4005-bdb7-c527522acb91" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="./assets/orbit-board-view.png" alt="Orbit board view"/>
+      <img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/b67abc13-e282-4fa0-8c9d-f78bc4166e3f" />
     </td>
   </tr>
 </table>
@@ -303,29 +303,17 @@
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DanilaTravkov&show_icons=true&theme=tokyonight&hide_border=true" alt="Danila's GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanilaTravkov&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=danilatravkov&theme=dark&hide_border=true&background=252329&card_width=1000)](https://git.io/streak-stats)
+
 
 </div>
-
----
-
-## A bit more about me
-
-<ul>
-  <li>Based in Novi Sad, Serbia.</li>
-  <li>Studying Software Engineering and Information Systems at the University of Novi Sad.</li>
-  <li>Also studied Business, Management and Digital Innovation with the University of London.</li>
-  <li>Comfortable working in English-speaking, international engineering teams.</li>
-  <li>Interested in frontend architecture, cloud systems, microservices, dashboards, internal tools, and practical AI use in software development.</li>
-</ul>
 
 ---
 
 <div align="center">
 
   <p>
-    <strong>Always open to new opportunities!</strong>
+    <strong>Always open to new opportunities! Contact me:</strong>
   </p>
 
   <p>
