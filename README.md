@@ -3,7 +3,7 @@
   <h1>Danila Travkov</h1>
 
   <p>
-    <h2>Software engineer</h2><br/>
+    <strong>Software engineer</strong><br/>
     Building production-grade web applications, dashboards, microservice UIs, and cloud-ready products.
   </p>
 
