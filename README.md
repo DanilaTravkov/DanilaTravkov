@@ -325,12 +325,12 @@
 <div align="center">
 
   <p>
-    <strong>Open to frontend / full-stack opportunities, internships, product engineering work, and collaboration on serious MVPs.</strong>
+    <strong>Always open to new opportunities!</strong>
   </p>
 
   <p>
-    <a href="mailto:datravkov@gmail.com">
-      <img src="https://img.shields.io/badge/Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
+    <a href="https://t.me/datravkov">
+      <img src="https://img.shields.io/badge/Telegram-%40datravkov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact me"/>
     </a>
   </p>
 
