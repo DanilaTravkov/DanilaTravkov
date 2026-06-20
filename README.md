@@ -86,7 +86,7 @@
 </p>
 
 <p>
-  <strong>Stack:</strong>
+  <strong>Main stack:</strong>
   Next.js · React · TypeScript · Node.js · Express · Java Spring Boot · RabbitMQ · PostgreSQL · MongoDB · InfluxDB · Docker · Kubernetes · Helm · Kustomize · AWS
 </p>
 
@@ -123,8 +123,8 @@
 </p>
 
 <p>
-  <strong>Stack:</strong>
-  React · TypeScript · modern component architecture · dark UI · product-focused frontend
+  <strong>Main stack:</strong>
+  Next.js · React · TypeScript · Feature-Sliced Design · Tailwind/shadcn · Supabase
 </p>
 
 <table>
