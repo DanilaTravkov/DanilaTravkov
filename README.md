@@ -23,7 +23,7 @@
 
   <p>
     <em>
-      I like building interfaces that are not just "screens", but working operational systems:
+      I like building complex, highly interactive interfaces with a UX-first approach:
       dashboards, admin panels, internal tools, data-heavy tables, real-time views, and products that connect frontend,
       backend, infrastructure, and business logic.
     </em>
