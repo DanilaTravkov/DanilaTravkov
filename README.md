@@ -145,26 +145,6 @@
 
 ---
 
-### Cloud music application
-
-<p>
-  Mobile-first SPA for storing and playing music, deployed through AWS infrastructure.
-  Includes automated CI/CD and serverless REST infrastructure work.
-</p>
-
-<p>
-  <strong>Stack:</strong>
-  React · Python · AWS S3 · CloudFront · Lambda · CI/CD · Infrastructure as Code
-</p>
-
-<p>
-  <a href="https://github.com/DanilaTravkov/CloudMusicContent">
-    <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="CloudMusicContent repository"/>
-  </a>
-</p>
-
----
-
 ### Event Planner — full-stack and mobile application
 
 <p>
@@ -273,29 +253,6 @@
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
   <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
 </p>
-
----
-
-## Current focus
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Product engineering</h3>
-      <p>
-        Building interfaces around real business workflows: logistics, operations, task tracking,
-        dashboards, admin tools, and cross-functional team processes.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Context engineering & AI-assisted development</h3>
-      <p>
-        Using structured project context, documentation, AI coding tools, and review workflows
-        to support faster and more consistent engineering across large codebases.
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
