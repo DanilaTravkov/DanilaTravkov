@@ -145,46 +145,53 @@
 
 ---
 
-### Event Planner — full-stack and mobile application
+NoSQL Engine — database engine and web client
 
-<p>
-  Full-stack event planning platform built with an Angular frontend, Spring Boot microservices,
-  PostgreSQL database, Dockerized services, Kafka messaging, and a Kotlin mobile version.
-</p>
+<p> A custom NoSQL database engine developed in Go with a React and TypeScript web client. The application provides separate backend and frontend services and can be launched as a containerized environment with persistent database storage. </p>
 
-<p>
-  <strong>Stack:</strong>
-  Angular · TypeScript · Java · Spring Boot · Kotlin · PostgreSQL · Docker · Kafka · JUnit · Jasmine · Selenium
-</p>
+<p> <strong>Stack:</strong> Go · React · TypeScript · Docker · Docker Compose </p>
 
-<p>
-  <a href="https://github.com/kzi-nastava/iss-project-event-planner-siit-2024-team-22">
-    <img src="https://img.shields.io/badge/Web%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Event Planner web repository"/>
-  </a>
-  <a href="https://github.com/kzi-nastava/iks-project-event-planner-siit-2024-team-22">
-    <img src="https://img.shields.io/badge/Mobile%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Event Planner mobile repository"/>
-  </a>
-</p>
+<p> <a href="https://github.com/DanilaTravkov/NoSQL-Engine"> <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="NoSQL Engine repository"/> </a> </p>
 
 ---
 
-### Certificate issuer with admin panel
+Graph data visualization platform
 
-<p>
-  Public Key Infrastructure management system for certificate issuing, revocation,
-  digital signatures, encrypted certificate operations, and role-based admin workflows.
-</p>
+<p> A modular platform for loading, managing, and visualizing graph-based datasets. It supports multiple workspaces, node and edge operations, graph manipulation through a CLI, and plugin-based data sources for importing JSON and XML datasets. </p>
 
-<p>
-  <strong>Stack:</strong>
-  Java · Spring Boot · Spring Security · JWT · SQLite · React · TypeScript
-</p>
+<p> <strong>Stack:</strong> Python · Django · JavaScript · D3.js · JSON · XML </p>
 
-<p>
-  <a href="https://github.com/maksimprivalov/publickeyinfrastructure">
-    <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="PKI repository"/>
-  </a>
-</p>
+<p> <a href="https://github.com/DanilaTravkov/SOiK_Project_Data_Visualization"> <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Data visualization repository"/> </a> </p>
+
+---
+
+Smart home and IoT monitoring system
+
+<p> An IoT system for Raspberry Pi devices with configurable sensors, actuators, and software simulators for development without physical hardware. Sensor processes run concurrently and publish generated data through MQTT for storage in InfluxDB and visualization in Grafana. </p>
+
+<p> <strong>Stack:</strong> Python · Raspberry Pi · MQTT · InfluxDB · Grafana · Docker Compose </p>
+
+<p> <a href="https://github.com/DanilaTravkov/IoT_Sensors"> <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="IoT Sensors repository"/> </a> </p>
+
+---
+
+Certificate issuer with admin panel
+
+<p> Public Key Infrastructure management system for certificate issuing, revocation, digital signatures, encrypted certificate operations, and role-based admin workflows. </p>
+
+<p> <strong>Stack:</strong> Java · Spring Boot · Spring Security · JWT · SQLite · React · TypeScript </p>
+
+<p> <a href="https://github.com/maksimprivalov/publickeyinfrastructure"> <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="PKI repository"/> </a> </p>
+
+---
+
+Audio filtering framework
+
+<p> A C++ audio-processing framework that reads signal and sine-table data from text files and generates WAV audio output. Filters are configured through application parameters and include low-pass, high-pass, and band-pass processing. </p>
+
+<p> <strong>Stack:</strong> C++ · Object-Oriented Programming · WAV processing · Digital signal filtering </p>
+
+<p> <a href="https://github.com/DanilaTravkov/AudioFilters"> <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Audio Filters repository"/> </a> </p>
 
 ---
 
