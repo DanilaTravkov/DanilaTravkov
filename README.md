@@ -246,18 +246,37 @@ C++ audio-processing framework for reading signal/sine-table inputs and generati
 
 <div align="center">
 
-<a href="https://github.com/DanilaTravkov">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanilaTravkov&theme=github_dark" alt="GitHub profile details"/>
-</a>
+  <img
+    width="96%"
+    src="profile-summary-card-output/github_dark/0-profile-details.svg"
+    alt="GitHub profile details"
+  />
 
-<br/><br/>
+  <br/><br/>
 
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=DanilaTravkov&show_icons=true&hide_border=true&theme=github_dark" alt="Danila Travkov GitHub stats"/>
-</a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanilaTravkov&theme=github_dark" alt="Most used languages by commits"/>
-</a>
+  <img
+    height="170"
+    src="profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    alt="Repositories per language"
+  />
+  <img
+    height="170"
+    src="profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    alt="Most used languages by commits"
+  />
+
+  <br/>
+
+  <img
+    height="170"
+    src="profile-summary-card-output/github_dark/3-stats.svg"
+    alt="GitHub statistics"
+  />
+  <img
+    height="170"
+    src="profile-summary-card-output/github_dark/4-productive-time.svg"
+    alt="Productive development time"
+  />
 
 </div>
 
