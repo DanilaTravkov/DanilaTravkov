@@ -192,11 +192,11 @@ I worked across architecture, frontend, backend services, deployment/configurati
 
 </details>
 
-### Orbit — project management & collaboration tool
+### Personal project management & collaboration tool
 
 Issue-tracking and project-management application with board/list workflows, project navigation, labels, priorities, assignees, due dates, issue creation, authentication, and a responsive product UI.
 
-**Stack:** Next.js · React · TypeScript · Feature-Sliced Design · Tailwind CSS · shadcn/ui · Framer Motion · Supabase
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · shadcn/ui · Framer Motion · Supabase
 
 [Repository](https://github.com/DanilaTravkov/Project-Management-UI)
 
